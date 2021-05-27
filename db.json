@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Hello Kitty",
+      "image": "https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/a3/8c/b5543a303fa1f02d1dfe2733f0ff748e5c59/KM-1/_w850.jpg",
+      "likes": 9,
+      "id": 9
+    },
+    {
+      "name": "Teddy Bear",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6oXzoc3GJgoZGtzHuQ72uZasDI0__Jg3MQ&usqp=CAU",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Baby Yoda",
+      "image": "https://gamesandcomics.it/catalog/97491/the-mandalorian-the-child-baby-yoda-pupazzo-peluche-28cm-plush-figure.jpg",
+      "likes": 4,
+      "id": 11
     }
   ]
 }
